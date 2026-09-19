@@ -1,0 +1,4 @@
+flask
+insightface
+numpy
+opencv-python
